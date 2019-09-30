@@ -42,22 +42,8 @@ This repository contains a 8-bit retro styled personal portfolio website that's 
 -   Compressed all visual (treats) element for much faster loading times
 
 
-## License
-
-The **Pixel Portfolio** is licensed under the terms of the [MIT license](LICENSE) and is available for free.
-
-## Links
-
--   [Website](http://thekrishna.in)
--   [404 Page](https://thekrishna.in/404)
--   [Documentation](https://github.com/K-Kraken/Pixel-Portfolio-Webite/blob/master/docs/documentation.md)
--   [Issue tracker](https://github.com/K-Kraken/Pixel-Portfolio-Webite/issues)
--   [Source code](https://github.com/K-Kraken/Pixel-Portfolio-Webite)
-
-
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/K-Kraken">Krishna Alagiri</a>
+  <a href="https://github.com/prateekstark">Prateek Garg</a>
 </p>
 
-![wave](http://cdn.thekrishna.in/img/common/border.png)
 
