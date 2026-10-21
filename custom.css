@@ -9,3 +9,11 @@
 .timeline-item h4 { color: #8a8a8a; font-weight: 400; margin-bottom: 14px; }
 .timeline-date { color: #8a8a8a; font-size: 0.95em; margin-top: 4px; }
 .timeline-cta { margin-top: 30px; }
+
+/* Books page */
+.book-entry { margin-bottom: 40px; }
+.book-cover { max-width: 280px; margin: 0 auto 24px; border: 1px solid #e5e5e5; box-shadow: 0 4px 14px rgba(0,0,0,0.08); }
+.book-entry h3 { margin-top: 0; }
+.beta-tag { display: inline-block; font-size: 0.55em; vertical-align: middle; padding: 3px 8px; border: 1px solid #8a8a8a; border-radius: 3px; color: #8a8a8a; letter-spacing: 0.05em; }
+.book-buttons .btn { margin: 0 8px 10px 0; }
+.book-contents li { margin-bottom: 4px; }
